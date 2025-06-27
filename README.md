@@ -1,4 +1,4 @@
-# 🎉 2025_BayesianOptimisation_SummerSchool_ReactCDT_Notebooks
+# 🎉 2025 BayesianOptimisation SummerSchool ReactCDT Notebooks
 
 ## General Information  
 Teaching during the CDT Winter School will take place over **three days**, each consisting of **lectures** followed by **tutorials and hackathons**.  
