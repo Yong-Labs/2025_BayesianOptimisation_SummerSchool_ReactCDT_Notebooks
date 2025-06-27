@@ -19,7 +19,7 @@ Alternatively - you can run the notebooks on Google Colab!
 ## Instructions for Google Colab! 
 'Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.' - Google Colabratory (2025)
 
-1. Open Google Colab and Sign In (You will need a microsoft account)
+1. Open Google Colab and Sign In (You will need a Google account)
 
 https://colab.research.google.com/
 
