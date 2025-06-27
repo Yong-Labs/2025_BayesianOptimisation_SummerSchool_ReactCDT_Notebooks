@@ -43,7 +43,7 @@ conda activate cdt_amsterdam2025
 
 To check if the installation was successful, run:
 ```sh
-python -c "import numpy, scipy, tqdm, cobyqa, matplotlib; print('All packages imported successfully!')"
+python -c "import numpy, scipy, tqdm, sobol_seq, matplotlib; print('All packages imported successfully!')"
 ```
 
 If there are no errors, the environment is set up correctly.
