@@ -1,4 +1,4 @@
-name: cdt_alicante311
+name: cdt_amsterdam2025
 channels:
   - conda-forge
   - defaults
@@ -10,3 +10,9 @@ dependencies:
   - cobyqa
   - matplotlib
   - jupyter
+  - sobol_seq
+  - plotly
+  - gpytorch
+  - rdkit
+  - sklearn
+  - torch
