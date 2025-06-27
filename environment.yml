@@ -1,0 +1,12 @@
+name: cdt_alicante311
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - tqdm
+  - cobyqa
+  - matplotlib
+  - jupyter
