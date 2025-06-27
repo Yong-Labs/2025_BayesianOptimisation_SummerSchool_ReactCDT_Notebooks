@@ -1,1 +1,3 @@
 # 2025_BayesianOptimisation_SummerSchool_ReactCDT_Notebooks
+
+Instructions for Google Collab! 
