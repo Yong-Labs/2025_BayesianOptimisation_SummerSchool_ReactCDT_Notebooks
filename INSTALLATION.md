@@ -1,6 +1,6 @@
-# cdt_alicante311 Environment Setup
+# cdt_amsterdam2025 Environment Setup
 
-This guide provides instructions on how to install and use the `cdt_alicante311` Conda environment.
+This guide provides instructions on how to install and use the `cdt_amsterdam2025` Conda environment.
 
 ## Prerequisites
 
@@ -24,7 +24,7 @@ Alternatively, install Anaconda from [Anaconda's official website](https://www.a
 
 ## Creating the Environment
 
-Once Conda is installed, create the `cdt_alicante311` environment using the provided YAML file:
+Once Conda is installed, create the `cdt_amsterdam2025` environment using the provided YAML file:
 
 ```sh
 conda env create -f environment.yml
@@ -36,7 +36,7 @@ This will create a Conda environment with Python 3.11 and the required packages.
 
 To activate the environment, run:
 ```sh
-conda activate cdt_alicante311
+conda activate cdt_amsterdam2025
 ```
 
 ## Verifying Installation
@@ -57,5 +57,5 @@ conda deactivate
 
 To remove the environment completely:
 ```sh
-conda env remove -n cdt_alicante311
+conda env remove -n cdt_amsterdam2025
 ```
