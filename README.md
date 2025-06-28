@@ -12,6 +12,8 @@ Teaching during the CDT Winter School will take place over **three days**, each 
 📅 Participants have already received a **preliminary schedule**. Any updates or changes will be communicated.   
 
 ## Teaching Material and Instructions  
+The following notebooks and excersises were created by Yong Lee with code adapted from [OptiML PSE Group](https://github.com/OptiMaL-PSE-Lab) !
+
 🖥️ For software requirements, please refer to the [INSTALLATION.md](./INSTALLATION.md). 
 
 Alternatively - you can run the notebooks on Google Colab!
