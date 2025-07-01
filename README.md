@@ -11,6 +11,14 @@ Teaching during the CDT Winter School will take place over **three days**, each 
 
 📅 Participants have already received a **preliminary schedule**. Any updates or changes will be communicated.   
 
+## Hackathon Submission
+Paste your code to the correct dropbox in the streamlit app below!
+https://2025bayesianoptimisationsummerschoolreactcdt-rhfys3cpl4wnkawhr.streamlit.app/
+
+You will be allowed 3 total submissions for each hackathon. Please label your submissions with the following form! 
+First hackathon: teamname_A1, teamname_A2, teamname_A3
+Second hackathon: teamname_B1, teamname_B2, teamname_B3
+
 ## Teaching Material and Instructions  
 The following notebooks and excersises were created by Yong Lee with code adapted from [OptiML PSE Group](https://github.com/OptiMaL-PSE-Lab) !
 
